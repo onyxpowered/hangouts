@@ -1,1 +1,17 @@
-{ "slides": [] }
+{
+  "slides": [
+    {
+      "id": "drivian",
+      "title": "Drivian",
+      "year": "2026",
+      "kind": "film",
+      "image": "HTAS/OATG/drivian-2.jpg",
+      "tint": [
+        "#c9a0c4",
+        "#3a2a1a"
+      ],
+      "focus": "50% 60%",
+      "order": 0
+    }
+  ]
+}
