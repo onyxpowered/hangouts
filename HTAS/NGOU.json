@@ -3,7 +3,6 @@
     {
       "id": "drivian",
       "title": "Drivian",
-      "year": "2026",
       "kind": "film",
       "image": "HTAS/OATG/drivian-2.jpg",
       "tint": [
@@ -12,6 +11,46 @@
       ],
       "focus": "50% 60%",
       "order": 0
+    },
+    {
+      "id": "gsct",
+      "title": "GSCT",
+      "kind": "film",
+      "tint": [
+        "#2c3e5a",
+        "#0b0f1a"
+      ],
+      "order": 1
+    },
+    {
+      "id": "masterwiki",
+      "title": "Masterwiki",
+      "kind": "film",
+      "tint": [
+        "#8a6a3d",
+        "#2a1a10"
+      ],
+      "order": 2
+    },
+    {
+      "id": "card-x-card",
+      "title": "Card X Card",
+      "kind": "film",
+      "tint": [
+        "#5a2a3a",
+        "#12060c"
+      ],
+      "order": 3
+    },
+    {
+      "id": "rulehouse",
+      "title": "Rulehouse",
+      "kind": "film",
+      "tint": [
+        "#3a5a4a",
+        "#07120d"
+      ],
+      "order": 4
     }
   ]
 }
